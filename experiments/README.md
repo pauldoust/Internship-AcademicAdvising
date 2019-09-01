@@ -1,0 +1,1 @@
+This folder contains a pdf file represnting a summary of all meetings conducted through this internship

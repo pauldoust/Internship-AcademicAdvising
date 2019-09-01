@@ -1,0 +1,1 @@
+The script used to post-process the output of LCM (maintain maximal patterns)

@@ -1,0 +1,1 @@
+the final script to handle all processing, starting from parsing stereo-typical semester files, ending with building a model for each semester with evaluation using RMSE
